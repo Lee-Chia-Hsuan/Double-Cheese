@@ -14,8 +14,10 @@ body {
 }
 h1{
     font-size: 24px;
-    
-.food {
+    margin-top: -44px;
+    margin-left: 163px;
+}
+.food{
     width: 105px;
     margin-top: 600px;
     margin-left: 20px;
