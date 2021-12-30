@@ -1,0 +1,33 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    height: 812px;
+    width: 375px;
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-position-y: 5px;
+}
+
+.burgerback {
+    margin-top: 47px;
+    margin-left: 16px;
+}
+
+.food {
+    width: 105px;
+    margin-top: 600px;
+    margin-left: 20px;
+}
+
+.tissue {
+    width: 105px;
+    margin-top: -92px;
+    margin-left: 155px;
+}
+
+.water {
+    width: 105px;
+    margin-top: -72px;
+    margin-left: 255px;
+}
