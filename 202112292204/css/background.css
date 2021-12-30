@@ -8,24 +8,23 @@ body {
     background-position: center;
     background-position-y: 5px;
 }
-
 .burgerback {
     margin-top: 47px;
     margin-left: 16px;
 }
-
+h1{
+    font-size: 24px;
+    
 .food {
     width: 105px;
     margin-top: 600px;
     margin-left: 20px;
 }
-
 .tissue {
     width: 105px;
     margin-top: -1px;
     margin-left: 155px;
 }
-
 .water {
     width: 105px;
     margin-top: -72px;
