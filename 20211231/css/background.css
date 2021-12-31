@@ -51,10 +51,10 @@ h1 {
     border: none;
     text-decoration: none;
     text-align: center;
-    padding: 9px 95px;
+    padding: 9.5px 45px;
     border-radius: 100px;
-    margin-top: 262px;
-    margin-left: 20px;
+    margin-top: 263px;
+    margin-left: 232px;
     font-size: 18px;
     font-weight: bold;
 }
@@ -64,10 +64,23 @@ h1 {
     border: none;
     text-decoration: none;
     text-align: center;
-    padding: 9.5px 45px;
+    padding: 9px 95px;
     border-radius: 100px;
-    margin-top: 263px;
-    margin-left: 232px;
+    margin-top: 262px;
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.button1-1 {
+    background-color: #FEA735;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9px 95px;
+    border-radius: 100px;
+    margin-top: 850px;
+    margin-left: 20px;
     font-size: 18px;
     font-weight: bold;
 }
