@@ -58,3 +58,29 @@ h1 {
     font-size: 18px;
     font-weight: bold;
 }
+
+.button1 {
+    background-color: #FEA735;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9.5px 45px;
+    border-radius: 100px;
+    margin-top: 263px;
+    margin-left: 232px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.button2 {
+    background-color: #FEA735;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9px 115px;
+    border-radius: 100px;
+    margin-left: 17px;
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: bold;
+}
