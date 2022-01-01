@@ -195,7 +195,7 @@ h1 {
     padding-top: 10px;
     padding-bottom: 9px;
     padding-left: 20px;
-    padding-right: 120px;
+    padding-right: 122.4px;
     border-radius: 100px;
     margin-left: 17px;
     margin-top: 189px;
@@ -211,11 +211,53 @@ h1 {
     padding-top: 10px;
     padding-bottom: 9px;
     padding-left: 20px;
-    padding-right: 120px;
+    padding-right: 122.4px;
     border-radius: 100px;
     margin-left: 17px;
     margin-top: 209px;
     font-size: 16px;
+}
+
+/* information 的 自行編寫按鈕#FEA735 */
+.button6 {
+    background-color: #FEA735;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9px 100px;
+    border-radius: 100px;
+    margin-top: 31px;
+    margin-left: 17px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* information 的 選擇程式按鈕 */
+.button7 {
+    background-color: #FEA735;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9px 118px;
+    border-radius: 100px;
+    margin-top: 31px;
+    margin-left: 17px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* information 的 完成按鈕 */
+.button03 {
+    background-color: #FEA735;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9.5px 45px;
+    border-radius: 100px;
+    margin-top: 241px;
+    margin-left: 225px;
+    font-size: 18px;
+    font-weight: bold;
 }
 
 /* chooseanimal5 的 綠框 */
