@@ -180,7 +180,7 @@ h1 {
     text-align: center;
     padding: 9px 118px;
     border-radius: 100px;
-    margin-top: 424px;
+    margin-top: 79px;
     margin-left: 17px;
     font-size: 18px;
     font-weight: bold;
@@ -222,20 +222,81 @@ h1 {
 .text5-1 {
     background-color: #D7FAD6;
     border: none;
-    width: 80px;
+    width: 70px;
+    height: 26px;
     padding-top: 2px;
-    margin-left: 99px;
-    margin-top: 337px;
+    margin-left: 104px;
+    margin-top: 332px;
 }
 
-/* chooseanimal5 的 面相右邊 */
-.select {
+/* chooseanimal5 的 面向右邊 */
+.select1 {
     background-color: #B05B47;
     border: none;
     width: 72px;
     height: 27px;
     padding-top: 2px;
     margin-left: 90px;
-    margin-top: 26px;
+    margin-top: 20px;
     font-weight: bold;
+}
+
+/* chooseanimal5 的 面向右邊選項 */
+.select1-1 {
+    background-color: #e2bdb5;
+}
+
+/* chooseanimal5 的 前進幾步#F9B8A9 */
+.text5-2 {
+    background-color: #F9B8A9;
+    border: none;
+    height: 29px;
+    width: 95px;
+    padding-top: 2px;
+    margin-left: 42px;
+    border-radius: 8px;
+}
+
+/* chooseanimal5 的 速度(缺其他選項) */
+.select2 {
+    background-color: #7AC1B6;
+    border: none;
+    width: 62px;
+    height: 26px;
+    padding-top: 2px;
+    margin-left: 83px;
+    margin-top: 20px;
+    font-weight: bold;
+    border-radius: 12px;
+    font-weight: bold;
+}
+
+/* chooseanimal5 的 速度選項 */
+.select2-1 {
+    background-color: #d4f5ef;
+}
+
+/* chooseanimal5 的 速度旁邊的框 */
+.text5-3 {
+    background-color: #FCFDFD;
+    border: none;
+    height: 26px;
+    width: 55px;
+    padding-top: 2px;
+    padding-left: 8px;
+    margin-left: 35px;
+    border-radius: 100px;
+}
+
+/* chooseanimal5 的 移動速度的輸入框 */
+.text5-4 {
+    background-color: #F1D5F0;
+    border: none;
+    height: 18px;
+    width: 42px;
+    padding-top: 1px;
+    padding-left: 3px;
+    margin-top: 27px;
+    margin-left: 171px;
+    border-radius: 5px;
 }
