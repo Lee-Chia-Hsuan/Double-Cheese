@@ -5,6 +5,7 @@
     width: 293px;
     margin-top: 370px;
 }
+
 .information {
     display: flex;
     flex-wrap: wrap;
@@ -12,6 +13,7 @@
     width: 293px;
     margin-top: 221px;
 }
+
 .btn {
     background-color: #FEA735;
     color: black;
@@ -23,6 +25,12 @@
     font-size: 18px;
     font-weight: bold;
 }
+
 .btn.walk {
     padding: 9px 113px;
+}
+
+.backgroungback {
+    margin-left: 295px;
+    margin-top: -802px;
 }
