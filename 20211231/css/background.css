@@ -46,6 +46,7 @@ h1 {
     text-align: center;
 }
 
+/* chooseanimal1 的 完成按鈕 */
 .button {
     background-color: #FEA735;
     border: none;
@@ -59,6 +60,49 @@ h1 {
     font-weight: bold;
 }
 
+/* chooseanimal3 的 完成按鈕 */
+.button0 {
+    background-color: #FEA735;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9.5px 49px;
+    border-radius: 100px;
+    margin-top: 258px;
+    margin-left: 227px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* chooseanimal4 的 完成按鈕 */
+.button01 {
+    background-color: #FEA735;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9.5px 49px;
+    border-radius: 100px;
+    margin-top: 376px;
+    margin-left: 227px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* chooseanimal5 的 完成按鈕 */
+.button02 {
+    background-color: #FEA735;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9.5px 45px;
+    border-radius: 100px;
+    margin-top: 11px;
+    margin-left: 240px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* chooseanimal1 的 自行編寫按鈕 */
 .button1 {
     background-color: #FEA735;
     border: none;
@@ -66,26 +110,14 @@ h1 {
     text-align: center;
     padding: 9px 95px;
     border-radius: 100px;
-    margin-top: 262px;
+    margin-top: 30px;
     margin-left: 20px;
     font-size: 18px;
     font-weight: bold;
 }
 
+/* chooseanimal1 的 選擇程式按鈕 */
 .button1-1 {
-    background-color: #FEA735;
-    border: none;
-    text-decoration: none;
-    text-align: center;
-    padding: 9px 95px;
-    border-radius: 100px;
-    margin-top: 850px;
-    margin-left: 20px;
-    font-size: 18px;
-    font-weight: bold;
-}
-
-.button2 {
     background-color: #FEA735;
     border: none;
     text-decoration: none;
@@ -95,5 +127,115 @@ h1 {
     margin-left: 17px;
     margin-top: 30px;
     font-size: 18px;
+    font-weight: bold;
+}
+
+/* chooseanimal3、4 的 自行編寫按鈕 */
+.button2 {
+    background-color: #FEA735;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9px 100px;
+    border-radius: 100px;
+    margin-top: 86px;
+    margin-left: 17px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* 充滿好奇+(缺加號) */
+.button2-1 {
+    background-color: #FFCD6E;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9px 120px;
+    border-radius: 100px;
+    margin-top: 210px;
+    margin-left: 32px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* 充滿好奇+(缺減號) */
+.button2-2 {
+    background-color: #FEA735;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9px 120px;
+    border-radius: 100px;
+    margin-top: 93px;
+    margin-left: 32px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* chooseanimal5 的 選擇程式按鈕 */
+.button5 {
+    background-color: #FEA735;
+    border: none;
+    text-decoration: none;
+    text-align: center;
+    padding: 9px 118px;
+    border-radius: 100px;
+    margin-top: 424px;
+    margin-left: 17px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* chooseanimal1 的 輸入暱稱 */
+.text {
+    background-color: #FCF5EF;
+    border: solid #FEA735;
+    text-decoration: none;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 9px;
+    padding-left: 20px;
+    padding-right: 120px;
+    border-radius: 100px;
+    margin-left: 17px;
+    margin-top: 189px;
+    font-size: 16px;
+}
+
+/* information 的 輸入暱稱 */
+.text1 {
+    background-color: #FCF5EF;
+    border: solid #FEA735;
+    text-decoration: none;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 9px;
+    padding-left: 20px;
+    padding-right: 120px;
+    border-radius: 100px;
+    margin-left: 17px;
+    margin-top: 209px;
+    font-size: 16px;
+}
+
+/* chooseanimal5 的 綠框 */
+.text5-1 {
+    background-color: #D7FAD6;
+    border: none;
+    width: 80px;
+    padding-top: 2px;
+    margin-left: 99px;
+    margin-top: 337px;
+}
+
+/* chooseanimal5 的 面相右邊 */
+.select {
+    background-color: #B05B47;
+    border: none;
+    width: 72px;
+    height: 27px;
+    padding-top: 2px;
+    margin-left: 90px;
+    margin-top: 26px;
     font-weight: bold;
 }
