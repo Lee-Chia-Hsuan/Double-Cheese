@@ -28,6 +28,13 @@ body {
 
 .water {
     width: 105px;
+    margin-top: -100px;
+    margin-left: 255px;
+}
+
+/* 清大便那頁的水 */
+.water1 {
+    width: 105px;
     margin-top: -72px;
     margin-left: 255px;
 }
@@ -565,4 +572,14 @@ h1 {
     margin-left: 227px;
     font-size: 18px;
     font-weight: bold;
+}
+
+.tackshower {
+    margin-top: -31px;
+    margin-left: 121px;
+}
+
+.pooppoop {
+    margin-top: -22px;
+    margin-left: 209px;
 }
