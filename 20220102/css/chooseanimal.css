@@ -1,0 +1,6 @@
+.text, .text1,
+.text6, .text6-1, 
+.text6-3 ,.text6-4,
+.select6, .select6-2:focus{
+    outline: 0;;
+}
