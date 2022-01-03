@@ -1,0 +1,13 @@
+/* chooseanimal2 */
+.text, .text1,
+.text6, .text6-1, 
+.text6-3 ,.text6-4,
+.select6, .select6-2:focus{
+    outline: 0;;
+}
+
+/* information1 */
+.text5-1, .text5-2, 
+.text5-3, .text5-4:focus{
+    outline: 0;
+}

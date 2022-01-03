@@ -1,0 +1,32 @@
+.container{
+    width: 261px;
+    margin-left: 15px;
+    border: 1px solid rgba(0, 0, 0, 0);
+}
+
+.list{
+    margin-top: 361px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    background-color: #FEA735;
+    color: black;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    border-radius: 100px;
+    margin-top: 30px;
+}
+
+.btn.change{
+    margin-top: 252px;
+}
+
+.backgroungback {
+    margin-left: 295px;
+    margin-top: -771px;
+    width: 60px;
+}
+
